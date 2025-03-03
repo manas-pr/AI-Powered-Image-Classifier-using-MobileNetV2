@@ -34,7 +34,7 @@ streamlit run app.py
 
 ## 🌐 Deploy on Streamlit Cloud
 1. Push the repository to GitHub.
-2. Go to (https://ai-powered-image-classifier.streamlit.app/) and log in.
+2. Go to [Streamlit Cloud](https://streamlit.io/cloud) and log in.
 3. Click **New App** and select your GitHub repository.
 4. Set the main file path as:
    ```
